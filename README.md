@@ -90,3 +90,37 @@ After installing Blender, go to Unity Editor Menu - Assets - Reimport All.
 <br>
 
 If you have installed blender before you open the project first time, no error occurs.
+
+# control keys
+
+### DualShock4 Controls : 
+
+- Left Stick - Pitch Up/Down; Roll Left/Right
+- Right Stick - Camera 
+- R2 - Accelerate 
+- L2 - Decelerate 
+- L1 - Yaw Left 
+- R1 - Yaw Right 
+- R3 - Change View
+- Touch Pad - Toggle Radar Map
+- X - Fire Machine Gun 
+- O - Fire Missile/Weapon 
+- Triangle - Change Target, Hold to Focus Current Target
+- Square - Change Weapon
+- Options - Pause Menu On/Off
+
+### Keyboard Controls (Not recommended):
+
+- W/S - Pitch Down/Up
+- A/D - Roll Left/Right
+- Space Bar - Accelerate 
+- Shift - Decelerate 
+- Q - Yaw Left 
+- E - Yaw Right 
+- C - Change View
+- V - Toggle Radar Map
+- K / Left Click - Fire Machine Gun 
+- J / Right Click - Fire Missile/Weapon 
+- X - Change Target 
+- I / Mouse Scroll Wheel Click - Change Weapon
+- ESC - Pause Menu On/Off
